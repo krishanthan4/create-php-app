@@ -2,6 +2,14 @@
 these scripts can make PHP MVC backend template with react/Vanila JS/Vue  frontend template with tailwindcss easily
 
 
+![Screenshot from 2024-02-29 14-27-52](https://github.com/krishanthan4/create-php-app/assets/122454062/26cfd518-69cd-43d4-9b31-e9d9237cb36d)
+
+
+![Screenshot from 2024-02-29 14-30-06](https://github.com/krishanthan4/create-php-app/assets/122454062/8e063040-6037-438e-8014-dd42cb9cf4ac)
+
+![Screenshot from 2024-02-29 14-30-41](https://github.com/krishanthan4/create-php-app/assets/122454062/3fc1d496-0706-4746-9a83-ace1bc19710b)
+
+
 # For Windows (create-php-app.ps1)
 
 Open PowerShell:
